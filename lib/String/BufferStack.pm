@@ -3,6 +3,8 @@ package String::BufferStack;
 use strict;
 use warnings;
 
+our $VERSION; $VERSION = "1.00";
+
 =head1 NAME
 
 String::BufferStack - Nested buffers for templating systems

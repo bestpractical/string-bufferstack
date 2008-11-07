@@ -13,4 +13,4 @@ no_index:
   directory: 
     - inc
     - t
-version: undef
+version: 1.00
