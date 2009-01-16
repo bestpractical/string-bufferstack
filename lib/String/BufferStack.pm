@@ -183,7 +183,7 @@ sub append {
 Similar to L</append>, but appends the strings to the output side of
 the frame, skipping pre-append callbacks and filters.
 
-When called with no frames on the stack, appends the stringins
+When called with no frames on the stack, appends the strings
 directly to the L</output_buffer>.
 
 =cut
